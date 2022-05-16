@@ -3,7 +3,9 @@ import React from 'react'
 const Docs = () => {
   return (
     <div className='doc-container'>
-        <h1>Google Docs Clone</h1>
+        <h1>Doc-Writer</h1>
+
+        <button className='doc-button'>Add a Document</button>
     </div>
   )
 }

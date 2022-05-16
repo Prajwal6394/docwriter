@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
 .doc-container{
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.doc-button{
+  height: 40px;
+    width: 200px;
+    background-color: #ffc107;
+    border: none;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
 }
